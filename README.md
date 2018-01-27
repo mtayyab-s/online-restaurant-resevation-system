@@ -4,7 +4,7 @@
 # TECHNOLOGIES
 Java, Spring MVC, XHTML, JSP, JSTL, CSS, JS, JQuery, AJAX, MySQL, Design Patterns, Tomcat
 
-#ABOUT THE PROJECT
+# ABOUT THE PROJECT
 Listaurant is an online restaurant reservation system that allows users to search for restaurants 
 in their neighborhood and make dining reservations at their preferred restaurant.
 
